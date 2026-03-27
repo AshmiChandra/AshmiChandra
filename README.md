@@ -14,11 +14,3 @@ I am a 2nd year CSE Data Science student with strong organizational skills and a
 - Involvement in CSI and KRIYA club selections  
 - Coordinated class projects and small events 
 
-## Sample Event Plan (Example)
-
-### Event: Club Induction Program
-
-**Task 1:** Prepare participant list and schedule  
-**Task 2:** Coordinate venue booking and logistics  
-**Task 3:** Ensure smooth communication between team members  
-**Task 4:** Document post-event feedback for improvement
