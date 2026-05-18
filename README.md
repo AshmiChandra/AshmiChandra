@@ -4,13 +4,8 @@ I am a 2nd year CSE Data Science student with strong organizational skills and a
 ## Key Skills
 - Team coordination and communication
 - python
-- powerBI 
-- Event planning and scheduling  
+- powerBI   
 - Time management and problem-solving  
-- Familiarity with MS Office and Google Workspace  
-
-## Relevant Activities
-- NSS (National Service Scheme) participation  
-- Involvement in CSI and KRIYA club selections  
-- Coordinated class projects and small events 
-
+- Familiarity with MS Office and Google Workspace
+- Model building using python
+- Data Analytcs
